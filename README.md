@@ -30,5 +30,5 @@ Lab 3 - Python Review - Development tools and Classes
   Pip3 install -r requitements.txt = install dit bestand op een nieuwe virtual envirment 
 
 Lab 4 - Network Infrastructure and troubleshooting
-• Install and configure your lab test environment according to the network drawing and instructions. This lab must be executed on hardware
-  netwerk tekening is te vinden in de map van lab 4 samen met de configuratie van de router en switch
+• Install and configure your lab test environment according to the network drawing and instructions. This lab must be executed on hardware.
+  Netwerk tekening is te vinden in de map van lab 4 samen met de configuratie van de router en switch
