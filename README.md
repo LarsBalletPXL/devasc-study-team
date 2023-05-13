@@ -16,3 +16,15 @@ Lab 2 - Explore rest apis with API-simulator and postman
   import request moest apart gedownload worden 
 • Task verification:
   POST, GET, DELETE, PUT, python3
+
+Lab 3 - Python Review - Development tools and Classes
+• Document your findings and important commands:
+  Python3 -V = python versie
+  Which python3 = locatie python
+  Python3 -m venv devfun = aanmaken virtual environment en de -m laat de venv runnen 
+  Source devfun/bin/activate = activeert de virtual environment 
+  Pip3 freeze = laat zien welke packages er geinstalleerd zijn 
+  Pip3 install requests = installeert python requests packages 
+  Deactivate = zet de virtual environment uit
+  Pip3 freeze > requirements.txt = zet de uitkomst van freeze in dit bestand 
+  Pip3 install -r requitements.txt = install dit bestand op een nieuwe virtual envirment 
