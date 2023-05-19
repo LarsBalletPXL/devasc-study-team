@@ -32,3 +32,12 @@ Lab 3 - Python Review - Development tools and Classes
 Lab 4 - Network Infrastructure and troubleshooting
 • Install and configure your lab test environment according to the network drawing and instructions. This lab must be executed on hardware.
   Netwerk tekening is te vinden in de map van lab 4 samen met de configuratie van de router en switch
+
+Lab6 - Python Network automation with netmiko
+• Document your findings and important commands.
+    'device_type': ,
+        'ip': ,
+        'username': ,
+        'password': ,
+        'show version', 'show interfaces', 'show ip route'
+        
