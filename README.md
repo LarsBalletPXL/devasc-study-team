@@ -33,9 +33,9 @@ Lab 4 - Network Infrastructure and troubleshooting
 • Install and configure your lab test environment according to the network drawing and instructions. This lab must be executed on hardware.  
   Netwerk tekening is te vinden in de map van lab 4 samen met de configuratie van de router en switch 
 
-Lab 5 - Software Development and Design Content 
-•Document your findings and important commands. 
-  Voor de readme file moet je telkens een tab uitvoeren voor een nieuwe lijn te beginnen.  
+Lab 5 - Software Development and Design Content  
+•Document your findings and important commands.  
+  Voor de readme file moet je telkens een tab uitvoeren voor een nieuwe lijn te beginnen.   
 
 Lab 6 - Python Network automation with netmiko  
 • Document your findings and important commands.  
