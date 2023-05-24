@@ -17,7 +17,7 @@ Lab 2 - Explore rest apis with API-simulator and postman
 • Task verification:  
   POST, GET, DELETE, PUT, python3 
 
-Lab 3 - Python Review - Development tools and Classes 
+Lab 3 - Python Review - Development tools and Classes  
 • Document your findings and important commands:  
   Python3 -V = python versie  
   Which python3 = locatie python  
