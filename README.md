@@ -12,7 +12,7 @@ Lab 1 - Python Experiments
 Lab 2 - Explore rest apis with API-simulator and postman  
 • Task preparation and implementation:  
   DEVASC Virtual Machine, Virtual Box or VMWare, 1 PC with operating system of your choice  
-• Task troubleshooting: 
+• Task troubleshooting:  
   import request moest apart gedownload worden   
 • Task verification:  
   POST, GET, DELETE, PUT, python3 
@@ -35,10 +35,10 @@ Lab 4 - Network Infrastructure and troubleshooting
 
 Lab 6 - Python Network automation with netmiko  
 • Document your findings and important commands.  
-    'device_type': ,  
-        'ip': , 
-        'username': , 
-        'password': , 
+    'device_type': ,    
+        'ip': ,   
+        'username': ,  
+        'password': ,   
         'show version', 'show interfaces', 'show ip route'  
         
 Lab 7 - YANG, NETCONFIG and RESTCONFIG  
