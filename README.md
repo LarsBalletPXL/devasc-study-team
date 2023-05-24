@@ -33,7 +33,7 @@ Lab 4 - Network Infrastructure and troubleshooting
 • Install and configure your lab test environment according to the network drawing and instructions. This lab must be executed on hardware.
   Netwerk tekening is te vinden in de map van lab 4 samen met de configuratie van de router en switch
 
-Lab6 - Python Network automation with netmiko
+Lab 6 - Python Network automation with netmiko
 • Document your findings and important commands.
     'device_type': ,
         'ip': ,
@@ -41,3 +41,7 @@ Lab6 - Python Network automation with netmiko
         'password': ,
         'show version', 'show interfaces', 'show ip route'
         
+Lab 7 - YANG, NETCONFIG and RESTCONFIG
+• Document your findings and important commands.
+Werkte niet in virtualbox en wel in vmware. Ik had de ova en de iso file nodig voordat het werkte. 
+De vmnet moest aangepast worden naar bridged en na lang zoeken is de fout gevonden waarom ik niet kon pingen. De vm selecteerde de verkeerde netwerkkaart van mijn computer waardoor ik niet naar buiten kon pingen. 
