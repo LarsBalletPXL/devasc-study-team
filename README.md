@@ -1,4 +1,5 @@
 # devasc-study-team
+Lars Ballet 2SNEB
 Working together to pass the DEVASC exam
 
 Lab 1 - Python Experiments   
