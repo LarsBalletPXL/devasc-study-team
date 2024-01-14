@@ -30,7 +30,7 @@ jobs:
       uses: docker/build-push-action@v3
       with:
         push: true
-        tags: 2tindevops.azurecr.io/${{ secrets.AzureAppService_ContainerUsername_cdabd29188eb48e19dc639e03bc4d631 }}/test:${{ github.sha }}
+        tags: 2tindevops.azurecr.io/${{ secrets.AzureAppService_2tindevops_cdabd29188eb48e19dc639e03bc4d631 }}/test:${{ github.sha }}
         file: ./Dockerfile
 
   deploy:
